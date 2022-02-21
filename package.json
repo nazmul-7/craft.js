@@ -1,4 +1,5 @@
 {
+  "name": "nazmul-7/craftjs",
   "npmClient": "yarn",
   "private": true,
   "author": "Prev Wong <prevwong@gmail.com>",
