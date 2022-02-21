@@ -186,6 +186,9 @@ export function QueryMethods(state: EditorState) {
           }, []);
         }
 
+        console.log("from query.tsx childrenNodes");
+        console.log(childrenNodes)
+
         return mergeTrees(node, childrenNodes);
       },
     }),
